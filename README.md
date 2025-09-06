@@ -1,5 +1,7 @@
 # PDF Q&A Application
 
+**IMPORTANT:** To understand, download, and run this code, please read this README file fully. All setup instructions and a summary of the approach are included below.
+
 A Next.js 14 application that enables users to upload PDF documents and ask questions about their content using AI-powered Retrieval-Augmented Generation (RAG).
 
 ## Features
